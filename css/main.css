@@ -16,3 +16,15 @@ html {
   border-color: #b4fff4;
   transition: all 200ms ease;
 }
+
+.btn:hover {
+  color: #b4fff4;
+  border-color: #90ccc3;
+  transition: all 200ms ease;
+}
+
+.btn:focus {
+  color: #b4fff4;
+  border-color: #90ccc3;
+  transition: all 200ms ease;
+}
