@@ -25,6 +25,7 @@ html {
   color: #b4fff4;
   border-color: #90ccc3;
   transition: all 200ms ease;
+  background-color: rgba(180, 255, 244, .2);
 }
 
 .btn:focus {
