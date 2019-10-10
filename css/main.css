@@ -35,5 +35,9 @@ html {
 }
 
 .btn:active {
+  transform: translate(0,1em);
+}
 
+.btn-ghost:hover .icon {
+  transform: translate(0, -.5em);
 }
