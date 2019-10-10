@@ -10,3 +10,8 @@ html {
 .banner-content {
   text-shadow: 1px 1px 10px rgba(255, 255, 255, .7);
 }
+
+.btn-ghost {
+  color: #b4fff4;
+  border-color: #b4fff4;
+}
