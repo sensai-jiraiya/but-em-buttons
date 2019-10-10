@@ -35,9 +35,14 @@ html {
 }
 
 .btn:active {
-  transform: translate(0,1em);
+  transform: translate(0, .25em);
+  top: 2em;
 }
 
 .btn-ghost:hover .icon {
   transform: translate(0, -.5em);
+}
+
+.icon {
+  transition: all 200ms ease;
 }
