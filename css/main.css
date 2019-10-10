@@ -14,4 +14,5 @@ html {
 .btn-ghost {
   color: #b4fff4;
   border-color: #b4fff4;
+  transition: all 200ms ease;
 }
